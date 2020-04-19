@@ -2,16 +2,16 @@
 based on python 
 
 
-requirements
+# requirements
 ------------
 
-# pyhton 3.7
+> pyhton 3.7
 
-In CMD
----------
-pip install matplotlib
+> In CMD
 
-pip install cobra
+  pip install matplotlib
 
-pip install pyplt
+  pip install cobra
+
+  pip install pyplt
 
